@@ -20,21 +20,21 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I am a data scientist with extensive technical expertise in various platforms and technologies, including Cloud, Analytics platform, Business Analytics, Machine Learning, Deep Learning, cloud computing, web deployment, and MLOps. I aim to leverage my skill set to develop efficient and effective data solutions that drive business value. … 🤷‍♂️
+            Data scientist with technical expertise, MLOps, ML, DL, Business Analytics, cloud computing, web deployment, focused on developing efficient data solutions for business value. … 🤷‍♂️
               <br />
-              <br />my technical expertise in various platforms and technologies such as 
+              <br />I'm a technical Swiss Army Knife with expertise in a whole bunch of platforms and technologies! Whether it's
               <i>
                 <b className="purple"> MLOps, Machine Learning, Deep Learning, Analytics platform, Business Analytics,  cloud computing, web deployment, and Cloud. </b>
               </i>
               <br />
               <br />
-              But let's not forget the most important thing – I love what I do! You might catch me nerding out about the latest data science techniques or experimenting with new technologies in my free time. Don't be surprised if you hear me cracking jokes about AI taking over the world, though – I like to keep things lighthearted.
+              I'm a data science nerd who loves my work and enjoys experimenting with new tech. Watch out for my jokes about AI world domination - I keep it light-hearted!
 
  &nbsp;
              
               <br />
               <br />
-              Ultimately, my goal is to develop efficient and effective data solutions that make a real impact. So whether you're a business looking to streamline operations or a fellow data enthusiast, let's collaborate and create something amazing together!. 
+              "Let's team up and turn data into gold! From optimizing biz to thrilling data-heads, my mission is crafting mighty solutions that pack a punch. So, let's rock this data party and make a splash!" 
               &nbsp; 
               <i>
                 <b className="purple">.</b>
